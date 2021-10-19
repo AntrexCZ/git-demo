@@ -7,3 +7,5 @@ and here
 hi there, how are you?
 
 commit to master
+
+some changes
